@@ -61,9 +61,9 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AgungRamadhani26&theme=algolia&show_icons=true&locale=en" alt="AgungRamadhani26" width="323"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AgungRamadhani26&theme=algolia&show_icons=true&locale=en&layout=compact" alt="AgungRamadhani26" width="323"/>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AgungRamadhani26&theme=algolia" alt="AgungRamadhani26" width="323"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AgungRamadhani26&theme=algolia&show_icons=true&locale=en" alt="AgungRamadhani26" width="200"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AgungRamadhani26&theme=algolia&show_icons=true&locale=en&layout=compact" alt="AgungRamadhani26" width="200"/>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AgungRamadhani26&theme=algolia" alt="AgungRamadhani26" width="200"/>
 </p>
   
   
