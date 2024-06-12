@@ -59,15 +59,16 @@
   </a> 
 </p>
 
-<div class="row">
-    <div class="col-md-4">
-        <img src="https://github-readme-stats.vercel.app/api?username=AgungRamadhani26&theme=algolia&show_icons=true&locale=en" alt="AgungRamadhani26"/>
-    </div>
-    <div class="col-md-4">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AgungRamadhani26&theme=algolia&show_icons=true&locale=en&layout=compact" alt="AgungRamadhani26"/>
-    </div>
-    <div class="col-md-4">
-        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AgungRamadhani26&theme=algolia" alt="AgungRamadhani26" />
-    </div>
-</div>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AgungRamadhani26&theme=algolia&show_icons=true&locale=en" alt="AgungRamadhani26" width="300"/>
+</p>
+<p>
+  &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AgungRamadhani26&theme=algolia&show_icons=true&locale=en&layout=compact" alt="AgungRamadhani26" width="300"/>
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgungRamadhani26&theme=algolia" alt="AgungRamadhani26" width="300"/>
+</p>
+  
+
 
